@@ -6,3 +6,5 @@ Hello and welcome! Read the Instructions for more information.
 
 Rainer was here!
 OK.
+
+Have a nice day!!
