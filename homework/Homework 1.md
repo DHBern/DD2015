@@ -1,6 +1,6 @@
 Download the whole "Hollywood" database from here: http://students.digihum.ch/hollywood.sql - make sure to save it as "plain text" or "source", if you are asked, and make a note of where you saved it!
 
-Open SQLite and read in the 'hollywood' data that you just downloaded.
+Open SQLite and read in the 'hollywood' data that you just downloaded. When I did this on Windows the file was called `hollywood_sql.txt`; on Mac it was `hollywood.sql`. That filename is what you will use in this next command.
 
     .read hollywood_sql.txt
 
@@ -47,7 +47,7 @@ Now tell me the query you use to answer the following questions, by copying each
 4. Which movies have reviews?
 5. What roles were acted in 'Unforgiven'?
 6. What roles were acted in 'Cloud Atlas'?
-7. How many different people acted in 'Cloud Atlas'?
+7. How many different people acted in 'Cloud Atlas'? (Hint: if you say `SELECT DISTINCT` instead of `SELECT`, all repeated rows will be removed!)
 
 8. Who acted in movies released in 1995?
 9. Who reviewed 'Jerry Maguire'?
