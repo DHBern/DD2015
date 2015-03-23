@@ -1,0 +1,37 @@
+# This is my table for actors or directors or whatever
+
+people
+ * id integer
+ - name text
+ - born date
+ 
+movies
+ * id integer
+ - title text
+ - tagline text
+ - released date
+ 
+roles
+ * id integer
+ - role text
+ - actor => people.id
+ - movie => movies.id
+ 
+reviews
+ * id integer
+ - movie  => movies.id
+ - author => people.id
+ - summary text
+ - rating integer
+ 
+wrote
+ - movie  => movies.id
+ - author => people.id
+  
+directed
+ - movie    => movies.id
+ - director => people.id
+  
+produced
+ - movie    => movies.id
+ - producer => people.id
