@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s xml:id="example.p.1.s.2">
+    <w xml:id="example.p.1.s.2.w.1">
+        <t>He</t>
+        <pos class="PRP"/>
+    </w>
+    <w xml:id="example.p.1.s.2.w.2">
+        <t>is</t>
+        <pos class="VBZ"/>
+    </w>
+    <w xml:id="example.p.1.s.2.w.3">
+        <t>Mr. </t>
+        <pos class="NNP"/>
+    </w>
+    <w xml:id="example.p.1.s.2.w.4">
+        <t>Smith</t>
+        <pos class="NNP"/>
+    </w>
+    <w xml:id="example.p.1.s.2.w.5">
+        <t>.</t>
+        <pos class="."/>
+    </w>
+</s>

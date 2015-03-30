@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>        
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head><title>How do I love thee?</title></head></div>
+      <div>
+      <lg>
+        <l>How do I love thee? Let me count the ways.</l>
+        <l>I love thee to the depth and breadth and height</l>
+        <l>My soul can reach, when feeling out of sight</l>
+        <l>For the ends of Being and ideal Grace.</l>
+      </lg>
+        
+        <lg>
+          <l>I love thee to the level of everyday's</l>
+          <l>Most quiet need, by sun and candle-light.</l>
+          <l>I love thee freely, as men strive for Right;</l>
+          <l>I love thee purely, as they turn from Praise.</l>
+        </lg>
+        
+        <lg>
+          <l>I love thee with a passion put to use</l>
+          <l>In my old griefs, and with my childhood's faith.</l>
+          <l>I love thee with a love I seemed to lose</l>
+          <l>With my lost saints, --- I love thee with the breath,</l>
+          <l>Smiles, tears, of all my life! --- and, if God choose,</l>
+          <l>I shall but love thee better after death.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
