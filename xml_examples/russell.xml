@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Analysis of Mind</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Electronic Publishing for Scholars example</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Taken from TEI by Example</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="chapter">
+            <head>Words and Meaning</head>
+         <pb n="198"/>
+         <p part="F">always a greater or less degree of vagueness. The meaning is an area, like a target : it may have a bull's eye, but the outlying parts of the target are still more or less within the meaning, in a gradually diminishing degree as we travel further from the bull's eye. As language grows more precise, there is less and less of the target outside the bull's eye, and the bull's eye itself grows smaller and smaller; but the bull's eye never shrinks to a point, and there is always a doubtful region, however small, surrounding it.<note n="1">On the understanding of words, a very admirable little book is Ribot's Evolution of General Ideas, Open Court Co., 1899. Ribot says (p. 131) : "We learn to understand a concept as we learn to walk, dance, fence or play a musical instrument: it is a habit, i.e. an organized memory. General terms cover an organized, latent knowledge which is the hidden capital without which we should be in a state of bankruptcy, manipulating false money or paper of no value. General ideas are habits in the intellectual order." </note></p> 
+            <p>A word is used " correctly " when the average hearer will be affected by it in the way intended. This is a psychological, not a literary, of "correctness." The literary definition would substitute, for the average hearer, a person of high education living a long time ago; the purpose of this definition is to make it difficult to speak or write correctly.</p> 
+            <p>The relation of a word to its meaning is of the nature of a causal law governing our use of the word and our actions when we hear it used. There is no more reason why a person who uses a word correctly should be able to tell what it means than there is why a planet which is moving correctly should know Kepler's laws.</p> 
+            <p>To illustrate what is meant by "understanding" words and sentences, let us take instances of various situations.</p> 
+            <pb n="199"/>
+            <p>Suppose you are walking in London with an absent-minded friend, and while crossing a street you say, "Look out, there's a motor coming." He will glance round and jump aside without the need of any " mental " intermediary. There need be no "ideas," but only a stiffening of the muscles, followed quickly by action. He "understands " the words, because he does the right thing. Such "understanding " may be taken to belong to the nerves and brain, being habits which they have acquired while the language was being learnt. Thus understanding in this sense may be reduced to mere physiological causal laws. </p>
+            <p>If you say the same thing to a Frenchman with a slight knowledge of English he will go through some inner speech which may be represented by "Que dit-il ? Ah, oui, une automobile !" After this, the rest follows as with the Englishman. Watson would contend that the inner speech must be incipiently pronounced; we should argue that it might be merely imaged. But this point is not important in the present connection. </p>
+            <p>If you say the same thing to a child who does not yet know the word "motor," but does know the other words you are using, you produce a feeling of anxiety and doubt: you will have to point and say, "There, that's a motor." After that the child will roughly understand the word "motor," though he may include trains and steam-rollers If this is the first time the child has heard the word "motor," he may for a long time continue to recall this scene when he hears the word. </p>
+            <p>So far we have found four ways of understanding words: 
+               <list>
+                  <label>(1)</label><item>On suitable occasions you use the word properly.</item> 
+                  <label>(2)</label><item>When you hear it you act appropriately </item>
+            <pb n="200"/>
+                  <label>(3)</label><item>You associate the word with another word (say in a different language) which has the appropriate effect on behaviour.</item> 
+                  <label>(4)</label><item>When the word is being first learnt, you may associate it with an object, which is what it " means" or a representative of various objects that it "means."</item></list> </p>
+         </div>
+      </body>
+  </text>
+</TEI>
