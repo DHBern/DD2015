@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -9,7 +7,7 @@
             <title>The Analysis of Mind</title>
          </titleStmt>
          <publicationStmt>
-            <p>Electronic Publishing for Scholars example</p>
+            <p>Sample homework data for 'Management of Digital Research Data' course, University of Bern</p>
          </publicationStmt>
          <sourceDesc>
             <p>Taken from TEI by Example</p>
@@ -27,7 +25,7 @@
             <p>To illustrate what is meant by "understanding" words and sentences, let us take instances of various situations.</p> 
             <pb n="199"/>
             <p>Suppose you are walking in London with an absent-minded friend, and while crossing a street you say, "Look out, there's a motor coming." He will glance round and jump aside without the need of any " mental " intermediary. There need be no "ideas," but only a stiffening of the muscles, followed quickly by action. He "understands " the words, because he does the right thing. Such "understanding " may be taken to belong to the nerves and brain, being habits which they have acquired while the language was being learnt. Thus understanding in this sense may be reduced to mere physiological causal laws. </p>
-            <p>If you say the same thing to a Frenchman with a slight knowledge of English he will go through some inner speech which may be represented by "Que dit-il ? Ah, oui, une automobile !" After this, the rest follows as with the Englishman. Watson would contend that the inner speech must be incipiently pronounced; we should argue that it might be merely imaged. But this point is not important in the present connection. </p>
+            <p>If you say the same thing to a Frenchman with a slight knowledge of English he will go through some inner speech which may be represented by <q xml:lang="fr-FR">"Que dit-il ? Ah, oui, une automobile !"</q> After this, the rest follows as with the Englishman. Watson would contend that the inner speech must be incipiently pronounced; we should argue that it might be merely imaged. But this point is not important in the present connection. </p>
             <p>If you say the same thing to a child who does not yet know the word "motor," but does know the other words you are using, you produce a feeling of anxiety and doubt: you will have to point and say, "There, that's a motor." After that the child will roughly understand the word "motor," though he may include trains and steam-rollers If this is the first time the child has heard the word "motor," he may for a long time continue to recall this scene when he hears the word. </p>
             <p>So far we have found four ways of understanding words: 
                <list>
