@@ -10,7 +10,7 @@ let $correct_name := 'Bedford'
 let $variants := ('Bedford.', 'Bed.', 'Bedf.')
 for $speaker in doc('shakespeare/5695.xml')//tei:speaker
 return
-    if (index-of($variants, $speaker/text())) then
+    if (index-of($variants, $speaker)) then
         update value $speaker with $correct_name 
     else
         ''
