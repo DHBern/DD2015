@@ -9,19 +9,34 @@ If you do not get an answer in the hundreds of nodes, then you will need to recr
 
 Here is a little Cypher cheat sheet. You can also have a look at the [reference card](http://neo4j.com/docs/stable/cypher-refcard/) - though it is not the easiest thing in the world to understand - or the full [manual](http://neo4j.com/docs/stable/cypher-query-lang.html).
 
+	
 	// Return all nodes
 	MATCH (n) RETURN n
+	
 	// Return all Person nodes
 	MATCH (n:Person) RETURN n
+	
 	// Return whoever was born in 1962, and the movies they acted in
 	MATCH (n {born:1962}-[:ACTED_IN]->(m) RETURN n, m
+	
 	// Return the release dates of movies, in order
 	MATCH (m:Movie) RETURN m.released ORDER BY m.released
+	
 	// Return the movies that got good reviews
 	MATCH (p)-[r:REVIEWED]->(m:Movie) WHERE r.rating > 70 RETURN m
+	
 	// Return the directors of the movies that Meg Ryan was in
 	MATCH (meg {name:'Meg Ryan'})-->(m:Movie), (d)-[:DIRECTED]->(m) RETURN d, m
-
+	
+Dealing with roles is special, because the 'roles' property can have more than one role listed!
+	
+	// Return the actors who played a role of Neo in a movie
+	MATCH (a)-[r:ACTED_IN]->(m) WHERE 'Neo' IN r.roles RETURN a, m
+	
+	// Return the list of roles in the Matrix movies. The 'UNWIND' says "Take each
+	// list of roles and make them all into a single big list."
+	MATCH (a)-[r:ACTED_IN]-(m) WHERE m.title =~ '.*Matrix.*' UNWIND r.roles AS parts RETURN  a.name, parts  
+	// - you can also say RETURN DISTINCT!
 *******
 
 Questions
