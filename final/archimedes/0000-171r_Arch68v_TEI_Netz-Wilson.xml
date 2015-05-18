@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="archie-tei.rng" type="xml"?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of folios 0000-171r of the Archimedes Palimpsest. (= Archimedes folio Arch68v, The
+					Measurement of the Circle)</title>
+				<author>Archimedes</author>
+				<respStmt>
+					<resp>Sponsor</resp>
+					<name>The Owner of the Archimedes Palimpsest</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Reviel Netz</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Nigel Wilson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Mike Toth</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Noel</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Doug Emery</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alexander Lee</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Neel Smith</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Christopher Blackwell</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jennifer Adams</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jennifer Curtin</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Christopher D'Alessandro</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Dolan</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Scott Dubè</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Michael Kinney</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Stephanie Wheeler</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Joshua Whelan</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alana L. Bates</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Mary Katherine Benson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Edwin Ranier Brenegar</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Harry Briggs</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Andrew P. Cannon</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Katie Elizabeth Crumpton</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Katelyn Marie Ellis</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Matthew David Goodson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Bryan Alton Keller</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Bethanie V. Kemper</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Claire Chamberlyn Kitchens</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Adam Charles Race</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Peter Eric Soder</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Charles David Stolper</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jiayang Wu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<idno>5517</idno>
+				<publisher>Owner of the Archimedes Palimpsest</publisher>
+				<date>2008</date>
+				<availability>
+					<p>Licensed for use under Creative Commons Attribution 3.0 Unported, license
+						http://creativecommons.org/licenses/by/3.0/legalcode.</p>
+					<p>It is requested that copies of any published articles based on the information in this data set
+						be sent to The Curator of Manuscripts, The Walters Art Museum, 600 North Charles Street,
+						Baltimore MD 21201.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl>
+					<bibl>Privately owned parchment codex: "The Archimedes Palimpsest".</bibl>
+					<bibl>Multispectral Digital Image Product of the Archimedes Palimpsest (The Owner of the Archimedes
+						Palimpsest, 2008).</bibl>
+					<bibl>Heiberg, J. L., Archimedis Opera omnia cum commentariis Eutocii (Leipzig: Teubner, 1910–15;
+						reprinted 1972).</bibl>
+					<bibl>Christie’s New York, 29th October 1998 Sale, no. 9058, The Archimedes Palimpsest. </bibl>
+					<bibl>A. Papadopoulos-Kerameus, Hierosolymitike Bibliotheke, vol. 4 (St Petersburg, 1899), 329–331,
+						MS 355.</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="keywords">
+					<category xml:id="keyword_1">
+						<catDesc>10th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_2">
+						<catDesc>13th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_3">
+						<catDesc>Archimedes Palimpsest</catDesc>
+					</category>
+					<category xml:id="keyword_4">
+						<catDesc>Byzantine Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_5">
+						<catDesc>Content: Against Diondas</catDesc>
+					</category>
+					<category xml:id="keyword_6">
+						<catDesc>Content: Against Timandros</catDesc>
+					</category>
+					<category xml:id="keyword_7">
+						<catDesc>Content: Archimedes</catDesc>
+					</category>
+					<category xml:id="keyword_8">
+						<catDesc>Content: Aristotle</catDesc>
+					</category>
+					<category xml:id="keyword_9">
+						<catDesc>Content: Categories</catDesc>
+					</category>
+					<category xml:id="keyword_10">
+						<catDesc>Content: Hyperides</catDesc>
+					</category>
+					<category xml:id="keyword_11">
+						<catDesc>Content: J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_12">
+						<catDesc>Content: Method</catDesc>
+					</category>
+					<category xml:id="keyword_13">
+						<catDesc>Content: On Floating Bodies</catDesc>
+					</category>
+					<category xml:id="keyword_14">
+						<catDesc>Content: On Spiral Lines</catDesc>
+					</category>
+					<category xml:id="keyword_15">
+						<catDesc>Content: On the Equilibrium of Planes</catDesc>
+					</category>
+					<category xml:id="keyword_16">
+						<catDesc>Content: On the Measurement of the Circle</catDesc>
+					</category>
+					<category xml:id="keyword_17">
+						<catDesc>Content: On the Sphere and Cylinder</catDesc>
+					</category>
+					<category xml:id="keyword_18">
+						<catDesc>Content: Stomachion</catDesc>
+					</category>
+					<category xml:id="keyword_19">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of undertext</catDesc>
+					</category>
+					<category xml:id="keyword_20">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of columnar
+							undertext</catDesc>
+					</category>
+					<category xml:id="keyword_21">
+						<catDesc>Greek Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_22">
+						<catDesc>J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_23">
+						<catDesc>Parchment Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_24">
+						<catDesc>Private Collection</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc-c">accented ancient Greek in Unicode-C Greek characters</language>
+				<language ident="eng">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="#keywords">
+					<list>
+						<item>Content: Archimedes</item>
+						<item>Content: On the Measurement of the Circle</item>
+						<item>Archimedes Palimpsest</item>
+						<item>Greek Manuscript</item>
+						<item>Byzantine Manuscript</item>
+						<item>Parchment Manuscript</item>
+						<item>13th Century Manuscript</item>
+						<item>10th Century Manuscript</item>
+						<item>Private Collection</item>
+						<item>Foliation scheme: Undertext foliation, ordered by sequence of columnar undertext</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<!--
+            utFolio is Arch68v-->
+	<facsimile>
+		<surface ulx="0" uly="0" lrx="8160" lry="10880">
+			<graphic url="0000-171r_Arch68v_Sinar_LED365_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED445_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED470_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED505_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED530_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED570_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED617_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED625_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED700_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED735_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_LED870_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_RAKBLL_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_RAKBLR_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_RAKIRL_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_RAKIRR_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_TNGSTN_01_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_pseudo_no-veil.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_pseudo_sharpie.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_true_pack8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_ultraviolet_norm8.tif"/>
+			<graphic url="0000-171r_Arch68v_Sinar_uvblue_norm8.tif"/>
+			<zone lrx="3912" lry="4916" ulx="1504" uly="4668" xml:id="zArch68v_171r1_01"/>
+			<zone lrx="3912" lry="5104" ulx="1504" uly="4892" xml:id="zArch68v_171r1_02"/>
+			<zone lrx="3912" lry="5328" ulx="1504" uly="5100" xml:id="zArch68v_171r1_03"/>
+			<zone lrx="3912" lry="5568" ulx="1504" uly="5340" xml:id="zArch68v_171r1_04"/>
+			<zone lrx="3912" lry="5776" ulx="1504" uly="5548" xml:id="zArch68v_171r1_05"/>
+			<zone lrx="3912" lry="6000" ulx="1504" uly="5772" xml:id="zArch68v_171r1_06"/>
+			<zone lrx="3912" lry="6224" ulx="1504" uly="5996" xml:id="zArch68v_171r1_07"/>
+			<zone lrx="3912" lry="6448" ulx="1504" uly="6220" xml:id="zArch68v_171r1_08"/>
+			<zone lrx="3912" lry="6672" ulx="1504" uly="6444" xml:id="zArch68v_171r1_09"/>
+			<zone lrx="3912" lry="6848" ulx="1504" uly="6620" xml:id="zArch68v_171r1_10"/>
+			<zone lrx="3912" lry="7072" ulx="1504" uly="6844" xml:id="zArch68v_171r1_11"/>
+			<zone lrx="3912" lry="7296" ulx="1504" uly="7068" xml:id="zArch68v_171r1_12"/>
+			<zone lrx="6700" lry="6646" ulx="4008" uly="4702" xml:id="zArch68v_171r_fig_2"/>
+			<zone lrx="5252" lry="6870" ulx="4008" uly="6650" xml:id="zArch68v_171r2_01"/>
+		</surface>
+	</facsimile>
+	<text xml:lang="grc-c">
+		<body>
+			<div>
+				<ab><milestone n="171r1" unit="folio"/>
+					<lb n="1" facs="#zArch68v_171r1_01"/><supplied reason="lost">ἡ</supplied>
+					<supplied reason="lost">ΘΑ</supplied>
+					<unclear>
+						<choice>
+							<abbr><am><g/></am></abbr>
+							<expan><ex>ἄρα</ex></expan>
+						</choice>
+					</unclear>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice> ΘΓ <w>μείζον<unclear>α</unclear></w>
+					<w><supplied reason="lost">λό</supplied>γον</w> ἔχει ἢ <lb n="2" facs="#zArch68v_171r1_02"
+						/><supplied reason="lost">ὃν</supplied>
+					<num type="cardinal"><supplied reason="lost">ΑΡΟ</supplied><unclear>Β</unclear></num>
+					<num type="fraction"><unclear>Η</unclear></num>
+					<supplied reason="lost">
+						<choice>
+							<abbr><am><g/></am></abbr>
+							<expan><ex>πρὸς</ex></expan>
+						</choice>
+					</supplied>
+					<num><unclear>ΡΝ</unclear>Γ</num><pc>.</pc>
+					<supplied reason="lost">ἔτι</supplied>
+					<w><unclear>δ</unclear>ίχα</w> ἡ <w><supplied reason="lost">ὑ</supplied>πὸ</w>
+					<w><unclear>Θ</unclear><supplied reason="lost">Ε</supplied><unclear>Γ</unclear></w>
+					<lb n="3" facs="#zArch68v_171r1_03"/><supplied reason="lost">τῆι</supplied>
+					<supplied reason="lost">ΕΚ</supplied><pc>·</pc>
+					<supplied reason="lost">ἡ</supplied>
+					<supplied reason="lost">ΕΓ</supplied>
+					<supplied reason="lost">ἄρα</supplied>
+					<supplied reason="lost">πρὸς</supplied>
+					<supplied reason="lost">ΓΚ</supplied>
+					<w><supplied reason="lost">μ</supplied>είζονα</w> λόγον <lb n="4" facs="#zArch68v_171r1_04"
+							/><w>ἔχ<unclear>ει</unclear></w> ἢ <supplied reason="lost">ὃν</supplied>
+					<supplied reason="lost"><num type="ordinal">ΒΤΛΔ</num></supplied>
+					<supplied reason="lost"><num type="fraction">Δ</num></supplied>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<num>Ρ<unclear>Ν</unclear><supplied reason="lost">Γ</supplied></num><pc>·</pc> ἡ ΕΚ <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ἄρα</ex></expan>
+					</choice>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<lb n="5" facs="#zArch68v_171r1_05"/>ΓΚ <w><supplied reason="lost"
+							>μ</supplied><unclear>εί</unclear>ζ<unclear>ω</unclear>ν</w> ἢ ὃν <num type="cardinal"
+							><unclear>Β</unclear>Τ<supplied reason="lost">ΛΔ</supplied></num>
+					<supplied reason="lost"><num type="fraction">Δ</num></supplied>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<num>ΡΝΓ</num><pc>.</pc>
+					<lb n="6" facs="#zArch68v_171r1_06"/>ἔτι <w>δί<supplied reason="lost">χα</supplied></w> ἡ ὑπὸ ΚΕΓ
+					τῆι ΛΕ<pc>·</pc> ἡ <w><supplied reason="lost">Ε</supplied>Γ</w>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ἄρα</ex></expan>
+					</choice>
+					<lb n="7" facs="#zArch68v_171r1_07"/><choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<supplied reason="lost">ΛΓ</supplied>
+					<w><supplied reason="lost">μ</supplied><unclear>εί</unclear>ζον<supplied reason="lost"
+						>α</supplied></w> μήκει <supplied reason="lost">
+						<choice>
+							<abbr><am><g/></am></abbr>
+							<expan><ex>λόγον</ex></expan>
+						</choice>
+					</supplied>
+					<w><supplied reason="lost">ἔχ</supplied>ει</w>
+					<choice>
+						<abbr>ἤ<am><g/></am></abbr>
+						<expan>ἤ<ex>περ</ex></expan>
+					</choice>
+					<gap unit="chars"/>
+					<lb n="8" facs="#zArch68v_171r1_08"/><num type="cardinal">Δ<supplied reason="lost"
+						>ΧΟ</supplied>Γ</num>
+					<num type="fraction">&#x10175;</num>
+					<!-- << Greek 1/2 sign -->
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<num>ΡΝΓ</num><pc>.</pc>
+					<w><supplied reason="lost">ἐ</supplied><unclear>π</unclear>εὶ</w>
+					<unclear>
+						<choice>
+							<abbr><am><g/></am></abbr>
+							<expan><ex>οὖν</ex></expan>
+						</choice>
+					</unclear> ἡ ὑπὸ <w>Ζ<supplied reason="lost">ΕΓ</supplied></w>
+					<w part="I">τρί</w>
+					<lb n="9" facs="#zArch68v_171r1_09"/><w part="F"><supplied reason="lost">τον</supplied></w>
+					<supplied reason="lost">οὖσα</supplied> ὀρθῆς <w>τ<supplied reason="lost">έτμ</supplied>ηται</w>
+					<w>τ<supplied reason="lost">ετρ</supplied>άκις</w>
+					<lb n="10" facs="#zArch68v_171r1_10"/><supplied reason="lost">δίχα</supplied><pc>,</pc>
+					<supplied reason="lost">ἡ</supplied>
+					<supplied reason="lost">ὑπὸ</supplied> ΛΕΓ <w><supplied reason="lost">ὀρθ</supplied>ῆς</w>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ἐστι</ex></expan>
+					</choice>
+					<num><unclear>ΜΗ</unclear></num><pc>.</pc>
+					<w part="I"><supplied reason="lost">κεί</supplied>σ</w>
+					<lb n="11" facs="#zArch68v_171r1_11"/><w part="F"><supplied reason="lost">θω</supplied></w>
+					<supplied reason="lost">οὖν</supplied>
+					<supplied reason="lost">αὐτῆ</supplied>
+					<w><supplied reason="lost">ἴ</supplied>ση</w>
+					<supplied reason="lost">πρὸς</supplied>
+					<w><supplied reason="lost">τ</supplied>ῶι</w>
+					<unclear>Ε</unclear>
+					<supplied reason="lost">ἡ</supplied>
+					<w><supplied reason="lost">ὑ</supplied>πὸ</w>
+					<w part="I">Γ<unclear>Ε</unclear></w>
+					<lb n="12" facs="#zArch68v_171r1_12"/><w part="F"><supplied reason="lost">Μ</supplied></w><pc>·</pc>
+					<supplied reason="lost">ἡ</supplied>
+					<supplied reason="lost">ἄρα</supplied>
+					<supplied reason="lost">ὑπὸ</supplied>
+					<supplied reason="lost">ΛΕΜ</supplied>
+					<w><supplied reason="lost">ὀρθῆ</supplied>ς</w>
+					<supplied reason="lost">ἐστι</supplied>
+					<supplied reason="lost"><num>ΚΔ</num></supplied><pc>.</pc>
+					<w><supplied reason="lost">κ</supplied>αὶ</w>
+					<lb n="13"/><gap unit="chars"/>
+					<lb n="14"/><gap unit="chars"/>
+					<lb n="15"/><gap unit="chars"/>
+					<lb n="16"/><gap unit="chars"/>
+					<milestone n="171r2" unit="folio"/>
+					<figure n="2" facs="#zArch68v_171r_fig_2"/>
+					<lb n="1" facs="#zArch68v_171r2_01"/><w>Ἔ<supplied reason="lost">στ</supplied>ω</w>
+					<w>κ<unclear>ύ</unclear><supplied reason="lost">κ</supplied>λ<supplied reason="lost"
+						>ος</supplied></w>
+					<gap unit="chars"/>
+					<lb n="2"/><gap unit="chars"/>
+					<lb n="3"/><gap unit="chars"/>
+					<lb n="4"/><gap unit="chars"/>
+					<lb n="5"/><gap unit="chars"/>
+					<lb n="6"/><gap unit="chars"/>
+				</ab>
+			</div>
+		</body>
+	</text>
+</TEI>

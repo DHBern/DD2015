@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="archie-tei.rng" type="xml"?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of folios 149r-154v of the Archimedes Palimpsest. (= Archimedes folio Arch57r,
+					Sphere and Cylinder)</title>
+				<author>Archimedes</author>
+				<respStmt>
+					<resp>Sponsor</resp>
+					<name>The Owner of the Archimedes Palimpsest</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Reviel Netz</name>
+				</respStmt>
+				<respStmt>
+					<resp>Responsible for primary transcription (Dublin Core creator)</resp>
+					<name>Nigel Wilson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Mike Toth</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Noel</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Doug Emery</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alexander Lee</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Neel Smith</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Christopher Blackwell</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jennifer Adams</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jennifer Curtin</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Christopher D'Alessandro</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>William Dolan</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Scott Dubè</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Michael Kinney</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Stephanie Wheeler</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Joshua Whelan</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Alana L. Bates</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Mary Katherine Benson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Edwin Ranier Brenegar</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Harry Briggs</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Andrew P. Cannon</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Katie Elizabeth Crumpton</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Katelyn Marie Ellis</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Matthew David Goodson</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Bryan Alton Keller</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Bethanie V. Kemper</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Claire Chamberlyn Kitchens</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Adam Charles Race</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Peter Eric Soder</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Charles David Stolper</name>
+				</respStmt>
+				<respStmt>
+					<resp>Contributor</resp>
+					<name>Jiayang Wu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<idno>5645</idno>
+				<publisher>Owner of the Archimedes Palimpsest</publisher>
+				<date>2008</date>
+				<availability>
+					<p>Licensed for use under Creative Commons Attribution 3.0 Unported, license
+						http://creativecommons.org/licenses/by/3.0/legalcode.</p>
+					<p>It is requested that copies of any published articles based on the information in this data set
+						be sent to The Curator of Manuscripts, The Walters Art Museum, 600 North Charles Street,
+						Baltimore MD 21201.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl>
+					<bibl> Privately owned parchment codex: "The Archimedes Palimpsest". </bibl>
+					<bibl> Multispectral Digital Image Product of the Archimedes Palimpsest (The Owner of the Archimedes
+						Palimpsest, 2008). </bibl>
+					<bibl> Heiberg, J. L., Archimedis Opera omnia cum commentariis Eutocii (Leipzig: Teubner, 1910–15;
+						reprinted 1972). </bibl>
+					<bibl> Christie’s New York, 29th October 1998 Sale, no. 9058, The Archimedes Palimpsest. </bibl>
+					<bibl> A. Papadopoulos-Kerameus, Hierosolymitike Bibliotheke, vol. 4 (St Petersburg, 1899), 329–331,
+						MS 355. </bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="keywords">
+					<category xml:id="keyword_1">
+						<catDesc>10th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_2">
+						<catDesc>13th Century Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_3">
+						<catDesc>Archimedes Palimpsest</catDesc>
+					</category>
+					<category xml:id="keyword_4">
+						<catDesc>Byzantine Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_5">
+						<catDesc>Content: Against Diondas</catDesc>
+					</category>
+					<category xml:id="keyword_6">
+						<catDesc>Content: Against Timandros</catDesc>
+					</category>
+					<category xml:id="keyword_7">
+						<catDesc>Content: Archimedes</catDesc>
+					</category>
+					<category xml:id="keyword_8">
+						<catDesc>Content: Aristotle</catDesc>
+					</category>
+					<category xml:id="keyword_9">
+						<catDesc>Content: Categories</catDesc>
+					</category>
+					<category xml:id="keyword_10">
+						<catDesc>Content: Hyperides</catDesc>
+					</category>
+					<category xml:id="keyword_11">
+						<catDesc>Content: J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_12">
+						<catDesc>Content: Method</catDesc>
+					</category>
+					<category xml:id="keyword_13">
+						<catDesc>Content: On Floating Bodies</catDesc>
+					</category>
+					<category xml:id="keyword_14">
+						<catDesc>Content: On Spiral Lines</catDesc>
+					</category>
+					<category xml:id="keyword_15">
+						<catDesc>Content: On the Equilibrium of Planes</catDesc>
+					</category>
+					<category xml:id="keyword_16">
+						<catDesc>Content: On the Measurement of the Circle</catDesc>
+					</category>
+					<category xml:id="keyword_17">
+						<catDesc>Content: On the Sphere and Cylinder</catDesc>
+					</category>
+					<category xml:id="keyword_18">
+						<catDesc>Content: Stomachion</catDesc>
+					</category>
+					<category xml:id="keyword_19">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of undertext</catDesc>
+					</category>
+					<category xml:id="keyword_20">
+						<catDesc>Foliation scheme: Undertext foliation, ordered by sequence of columnar
+							undertext</catDesc>
+					</category>
+					<category xml:id="keyword_21">
+						<catDesc>Greek Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_22">
+						<catDesc>J. L. Heiberg</catDesc>
+					</category>
+					<category xml:id="keyword_23">
+						<catDesc>Parchment Manuscript</catDesc>
+					</category>
+					<category xml:id="keyword_24">
+						<catDesc>Private Collection</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc-c">accented ancient Greek in Unicode-C Greek characters</language>
+				<language ident="eng">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="#keywords">
+					<list>
+						<item>Content: Archimedes</item>
+						<item>Content: On the Sphere and Cylinder</item>
+						<item>Archimedes Palimpsest</item>
+						<item>Greek Manuscript</item>
+						<item>Byzantine Manuscript</item>
+						<item>Parchment Manuscript</item>
+						<item>13th Century Manuscript</item>
+						<item>10th Century Manuscript</item>
+						<item>Private Collection</item>
+						<item>Foliation scheme: Undertext foliation, ordered by sequence of columnar undertext</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<!--
+            utFolio is Arch57r-->
+	<facsimile>
+		<surface ulx="0" uly="0" lrx="8160" lry="10880">
+			<graphic url="149r-154v_Arch57r_Sinar_LED365_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED445_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED470_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED505_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED530_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED570_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED617_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED625_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED700_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED735_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_LED870_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_RAKBLL_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_RAKBLR_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_RAKIRL_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_RAKIRR_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_TNGSTN_01_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_pseudo_no-veil.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_pseudo_sharpie.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_true_pack8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_ultraviolet_norm8.tif"/>
+			<graphic url="149r-154v_Arch57r_Sinar_uvblue_norm8.tif"/>
+			<zone lrx="3158" lry="1264" ulx="898" uly="1004" xml:id="zArch57r_149r1_01"/>
+			<zone lrx="3158" lry="1472" ulx="898" uly="1212" xml:id="zArch57r_149r1_02"/>
+			<zone lrx="3158" lry="1696" ulx="898" uly="1436" xml:id="zArch57r_149r1_03"/>
+			<zone lrx="3158" lry="1936" ulx="898" uly="1676" xml:id="zArch57r_149r1_04"/>
+			<zone lrx="3158" lry="2144" ulx="898" uly="1884" xml:id="zArch57r_149r1_05"/>
+			<zone lrx="3158" lry="2372" ulx="898" uly="2076" xml:id="zArch57r_149r1_06"/>
+			<zone lrx="3158" lry="2612" ulx="898" uly="2316" xml:id="zArch57r_149r1_07"/>
+			<zone lrx="3158" lry="2836" ulx="898" uly="2540" xml:id="zArch57r_149r1_08"/>
+			<zone lrx="3158" lry="3044" ulx="898" uly="2748" xml:id="zArch57r_149r1_09"/>
+			<zone lrx="3158" lry="3236" ulx="898" uly="2972" xml:id="zArch57r_149r1_10"/>
+			<zone lrx="3158" lry="3476" ulx="898" uly="3212" xml:id="zArch57r_149r1_11"/>
+			<zone lrx="3158" lry="3668" ulx="898" uly="3404" xml:id="zArch57r_149r1_12"/>
+			<zone lrx="3158" lry="3908" ulx="898" uly="3644" xml:id="zArch57r_149r1_13"/>
+			<zone lrx="3158" lry="4132" ulx="898" uly="3868" xml:id="zArch57r_149r1_14"/>
+			<zone lrx="3158" lry="4372" ulx="898" uly="4140" xml:id="zArch57r_149r1_15"/>
+			<zone lrx="3158" lry="4612" ulx="810" uly="4380" xml:id="zArch57r_149r1_16"/>
+			<zone lrx="3158" lry="4852" ulx="1014" uly="4620" xml:id="zArch57r_149r1_17"/>
+			<zone lrx="3158" lry="5092" ulx="1014" uly="4860" xml:id="zArch57r_149r1_18"/>
+			<zone lrx="3158" lry="5280" ulx="1014" uly="5100" xml:id="zArch57r_149r1_19"/>
+			<zone lrx="3158" lry="5488" ulx="1014" uly="5308" xml:id="zArch57r_154v1_20"/>
+			<zone lrx="3158" lry="5680" ulx="1014" uly="5500" xml:id="zArch57r_154v1_21"/>
+			<zone lrx="3158" lry="5888" ulx="1014" uly="5708" xml:id="zArch57r_154v1_22"/>
+			<zone lrx="3158" lry="6112" ulx="1014" uly="5932" xml:id="zArch57r_154v1_23"/>
+			<zone lrx="3158" lry="6320" ulx="1014" uly="6140" xml:id="zArch57r_154v1_24"/>
+			<zone lrx="3158" lry="6592" ulx="1014" uly="6412" xml:id="zArch57r_154v1_25"/>
+			<zone lrx="3158" lry="6816" ulx="1014" uly="6636" xml:id="zArch57r_154v1_26"/>
+			<zone lrx="3158" lry="7056" ulx="1014" uly="6876" xml:id="zArch57r_154v1_27"/>
+			<zone lrx="3158" lry="7280" ulx="1014" uly="7100" xml:id="zArch57r_154v1_28"/>
+			<zone lrx="3158" lry="7504" ulx="1014" uly="7324" xml:id="zArch57r_154v1_29"/>
+			<zone lrx="3158" lry="7760" ulx="1014" uly="7580" xml:id="zArch57r_154v1_30"/>
+			<zone lrx="3158" lry="7968" ulx="1014" uly="7788" xml:id="zArch57r_154v1_31"/>
+			<zone lrx="3158" lry="8160" ulx="1014" uly="7980" xml:id="zArch57r_154v1_32"/>
+			<zone lrx="3206" lry="8384" ulx="1062" uly="8204" xml:id="zArch57r_154v1_33"/>
+			<zone lrx="3206" lry="8592" ulx="1062" uly="8412" xml:id="zArch57r_154v1_34"/>
+			<zone lrx="3238" lry="8864" ulx="1094" uly="8684" xml:id="zArch57r_154v1_35"/>
+			<zone lrx="5966" lry="1148" ulx="3558" uly="912" xml:id="zArch57r_149r2_01"/>
+			<zone lrx="5966" lry="1388" ulx="3558" uly="1152" xml:id="zArch57r_149r2_02"/>
+			<zone lrx="5966" lry="1628" ulx="3558" uly="1392" xml:id="zArch57r_149r2_03"/>
+			<zone lrx="5966" lry="1820" ulx="3558" uly="1584" xml:id="zArch57r_149r2_04"/>
+			<zone lrx="5966" lry="2060" ulx="3558" uly="1824" xml:id="zArch57r_149r2_05"/>
+			<zone lrx="5966" lry="2280" ulx="3558" uly="2064" xml:id="zArch57r_149r2_06"/>
+			<zone lrx="5966" lry="2504" ulx="3558" uly="2288" xml:id="zArch57r_149r2_07"/>
+			<zone lrx="5966" lry="2712" ulx="3558" uly="2496" xml:id="zArch57r_149r2_08"/>
+			<zone lrx="5966" lry="2968" ulx="3558" uly="2752" xml:id="zArch57r_149r2_09"/>
+			<zone lrx="5966" lry="3208" ulx="3558" uly="2992" xml:id="zArch57r_149r2_10"/>
+			<zone lrx="5966" lry="3448" ulx="3558" uly="3232" xml:id="zArch57r_149r2_11"/>
+			<zone lrx="5966" lry="3656" ulx="3558" uly="3440" xml:id="zArch57r_149r2_12"/>
+			<zone lrx="5966" lry="3880" ulx="3558" uly="3664" xml:id="zArch57r_149r2_13"/>
+			<zone lrx="5966" lry="4152" ulx="3558" uly="3936" xml:id="zArch57r_149r2_14"/>
+			<zone lrx="5966" lry="4376" ulx="3558" uly="4160" xml:id="zArch57r_149r2_15"/>
+			<zone lrx="5966" lry="4616" ulx="3558" uly="4400" xml:id="zArch57r_149r2_16"/>
+			<zone lrx="5966" lry="4856" ulx="3558" uly="4640" xml:id="zArch57r_149r2_17"/>
+			<zone lrx="5966" lry="5080" ulx="3558" uly="4864" xml:id="zArch57r_149r2_18"/>
+			<zone lrx="5966" lry="5304" ulx="3558" uly="5088" xml:id="zArch57r_149r2_19"/>
+			<zone lrx="5966" lry="5528" ulx="3558" uly="5312" xml:id="zArch57r_154v2_20"/>
+			<zone lrx="5966" lry="5752" ulx="3558" uly="5536" xml:id="zArch57r_154v2_21"/>
+			<zone lrx="5966" lry="5992" ulx="3558" uly="5776" xml:id="zArch57r_154v2_22"/>
+			<zone lrx="5966" lry="6232" ulx="3558" uly="6016" xml:id="zArch57r_154v2_23"/>
+			<zone lrx="5966" lry="6472" ulx="3558" uly="6256" xml:id="zArch57r_154v2_24"/>
+			<zone lrx="5966" lry="6728" ulx="3558" uly="6512" xml:id="zArch57r_154v2_25"/>
+			<zone lrx="5966" lry="6920" ulx="3558" uly="6704" xml:id="zArch57r_154v2_26"/>
+			<zone lrx="5966" lry="7144" ulx="3558" uly="6928" xml:id="zArch57r_154v2_27"/>
+			<zone lrx="5966" lry="7384" ulx="3558" uly="7168" xml:id="zArch57r_154v2_28"/>
+			<zone lrx="5966" lry="7624" ulx="3558" uly="7408" xml:id="zArch57r_154v2_29"/>
+			<zone lrx="5966" lry="7848" ulx="3558" uly="7632" xml:id="zArch57r_154v2_30"/>
+			<zone lrx="5966" lry="8056" ulx="3558" uly="7840" xml:id="zArch57r_154v2_31"/>
+			<zone lrx="5966" lry="8264" ulx="3558" uly="8048" xml:id="zArch57r_154v2_32"/>
+			<zone lrx="5966" lry="8472" ulx="3558" uly="8256" xml:id="zArch57r_154v2_33"/>
+			<zone lrx="5966" lry="8712" ulx="3558" uly="8496" xml:id="zArch57r_154v2_34"/>
+		</surface>
+	</facsimile>
+	<text xml:lang="grc-c">
+		<body>
+			<div>
+				<ab><milestone n="149r1" unit="folio"/>
+					<lb n="1" facs="#zArch57r_149r1_01"/><choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ἔστι</ex></expan>
+					</choice> δὲ ἡ ἐπιφάνεια τοῦ <w part="I">περιγε</w>
+					<lb n="2" facs="#zArch57r_149r1_02"/><w part="F">γραμμένου</w> σχήματος περὶ <choice>
+						<abbr>τὴ<am><g/></am></abbr>
+						<expan>τὴ<ex>ν</ex></expan>
+					</choice>
+					<lb n="3" facs="#zArch57r_149r1_03"/>σφαῖραν <w>μεί<unclear>ζ</unclear>ων</w> ἢ <w part="I"
+							>τε<unclear>τ</unclear>ραπλα</w>
+					<lb n="4" facs="#zArch57r_149r1_04"/><w part="F">σία</w> τοῦ μεγίστου
+						<w><unclear>κύ</unclear>κλου</w> τῶν ἐν <lb n="5" facs="#zArch57r_149r1_05"/>τῆι
+						σφαίρας<pc>,</pc> μεῖζον <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ἄρα</ex></expan>
+					</choice> ἢ <w part="I">τετρα</w>
+					<lb n="6" facs="#zArch57r_149r1_06"/><w part="F">πλάσιον</w> ἔσται τὸ σχῆμα τὸ <w part="I">περι</w>
+					<lb n="7" facs="#zArch57r_149r1_07"/><w part="F">γεγραμμένον</w> περὶ <w><unclear>τ</unclear>ὴν</w>
+					<choice>
+						<abbr>σφαῖρα<am><g/></am></abbr>
+						<expan>σφαῖρα<ex>ν</ex></expan>
+					</choice>
+					<lb n="8" facs="#zArch57r_149r1_08"/>τοῦ κώνου τοῦ βάσιν μὲν ἔχοντος <lb n="9"
+						facs="#zArch57r_149r1_09"/>τὸν μέγιστον κύκλον<pc>,</pc> ὕψος δὲ τὴν <lb n="10"
+						facs="#zArch57r_149r1_10"/>ἐκ τοῦ κέντρου τῆς σφαίρας<pc>,</pc>
+					<lb n="11" facs="#zArch57r_149r1_11"/>ἐπειδὴ καὶ ὁ κῶνος ὁ ἴσος αὐτῶι <lb n="12"
+						facs="#zArch57r_149r1_12"/>μείζων ἢ τετραπλάσιος <w part="I">γίνε</w>
+					<lb n="13" facs="#zArch57r_149r1_13"/><w part="F">ται</w> τοῦ εἰρημένου κώνου<pc>·</pc>
+					<w part="I">βά</w>
+					<lb n="14" facs="#zArch57r_149r1_14"/><w part="F">σιν</w> τε γὰρ μείζονα ἢ <w part="I">τετρα</w>
+					<lb n="15" facs="#zArch57r_149r1_15"/><w part="F">πλάσιον</w> ἔχει καὶ ὕψος ἴσον<pc>.</pc>
+					<lb n="16" facs="#zArch57r_149r1_16"/>ἐὰν ἐν <w>σφαίρα<unclear>ι</unclear></w>
+					<choice>
+						<abbr>σχ<am><g/></am></abbr>
+						<expan>σχ<ex>ῆμα</ex></expan>
+					</choice>
+					<w part="I">ἐγγεγραμμέ</w>
+					<lb n="17" facs="#zArch57r_149r1_17"/><w part="F">νον</w> καὶ ἄλλο <w part="I">περιγεγραμμέ</w>
+					<lb n="18" facs="#zArch57r_149r1_18"/><w part="F">νον</w> ὑπὸ ὁμοίων πολυγώνων <lb n="19"
+						facs="#zArch57r_149r1_19"/>τὸν <w>αὐτὸ<supplied reason="lost">ν</supplied></w>
+					<w><supplied reason="lost">τ</supplied>ρόπον</w> τοῖς <choice>
+						<abbr>πρότερ<am><g/></am></abbr>
+						<expan>πρότερ<ex>ον</ex></expan>
+					</choice>
+					<milestone n="154v1" unit="folio"/>
+					<lb n="20" facs="#zArch57r_154v1_20"/>κατεσκευασμένοις<pc>,</pc> ἡ <w part="I">ἐπιφά</w>
+					<lb n="21" facs="#zArch57r_154v1_21"/><w part="F">νεια</w> τοῦ περιγεγραμμένου <w part="I">σχή</w>
+					<lb n="22" facs="#zArch57r_154v1_22"/><w part="F">ματος</w>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice> τὴν τοῦ <w part="I">ἐγγεγραμμέ</w>
+					<lb n="23" facs="#zArch57r_154v1_23"/><w part="F">νου</w> ἐπιφάνειαν διπλασίονα <lb n="24"
+						facs="#zArch57r_154v1_24"/>λόγον ἔχει ἤπερ ἡ <w>πλευ<unclear>ρ</unclear>ὰ</w> τοῦ <lb n="25"
+						facs="#zArch57r_154v1_25"/>περιγεγραμμένου <choice>
+						<abbr>πολυγών<am><g/></am></abbr>
+						<expan>πολυγών<ex>ου</ex></expan>
+					</choice>
+					<lb n="26" facs="#zArch57r_154v1_26"/>περὶ τὸν <w>μέγιστο<unclear>ν</unclear></w>
+					<w><supplied reason="lost">κύ</supplied><unclear>κ</unclear>λ<unclear>ο</unclear>ν</w> πρὸς <choice>
+						<abbr>τὴ<am><g/></am></abbr>
+						<expan>τὴ<ex>ν</ex></expan>
+					</choice>
+					<lb n="27" facs="#zArch57r_154v1_27"/>πλευρὰν τοῦ ἐγγεγραμμένου <lb n="28" facs="#zArch57r_154v1_28"
+					/>πολυγώνου ἐν τῶι <w>αὐτῶ<unclear>ι</unclear></w>
+					<choice>
+						<abbr>κύκλ<unclear><am><g/></am></unclear></abbr>
+						<expan>κύκλ<unclear><ex>ω</ex></unclear></expan>
+					</choice><pc>,</pc>
+					<lb n="29" facs="#zArch57r_154v1_29"/>αὐτὸ δὲ τὸ σχῆμα τὸ <w part="I">περιγεγραμ</w>
+					<lb n="30" facs="#zArch57r_154v1_30"/><w part="F">μένον</w>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice> τὸ σχῆμα <w part="I">τριπλασί</w>
+					<lb n="31" facs="#zArch57r_154v1_31"/><w part="F">ονα</w> λόγον ἔχει τοῦ αὐτοῦ <choice>
+						<abbr>λόγ<am><g/></am></abbr>
+						<expan>λόγ<ex>ου</ex></expan>
+					</choice><pc>.</pc>
+					<lb n="32" facs="#zArch57r_154v1_32"/>ἔστω ἐν σφαίραι <w>κ<unclear>ύ</unclear>κλος</w> ὁ ΑΒ
+						ΓΔ<pc>,</pc>
+					<lb n="33" facs="#zArch57r_154v1_33"/>καὶ <w>ἐγγε<unclear>γρά</unclear>φθω</w> εἰς αὐτὸν <w part="I"
+						>πο</w>
+					<lb n="34" facs="#zArch57r_154v1_34"/><w part="F">λύγωνον</w>
+					<w>ἰ<unclear>σ</unclear><supplied reason="lost">όπ</supplied>λευρον</w><pc>,</pc> τὸ δὲ <w part="I"
+						>πλῆ</w>
+					<lb n="35" facs="#zArch57r_154v1_35"/><w part="F">θος</w> τῶν <w>πλευρ<unclear>ῶ</unclear>ν</w>
+					αὐτοῦ μετρείσθω <milestone n="149r2" unit="folio"/>
+					<lb n="1" facs="#zArch57r_149r2_01"/>ὑπὸ <w>τετράδο<supplied reason="lost"
+						>ς</supplied></w><pc>,</pc>
+					<w><supplied reason="lost">κ</supplied>αὶ</w>
+					<w><unclear>ἄλ</unclear><supplied reason="lost">λο</supplied></w>
+					<w part="I"><supplied reason="lost">περιγε</supplied></w>
+					<lb n="2" facs="#zArch57r_149r2_02"/><w part="F">γράφθω</w> περὶ τὸν κύκλον <choice>
+						<abbr><supplied reason="lost">ὅ</supplied>μοιο<am><g/></am></abbr>
+						<expan><supplied reason="lost">ὅ</supplied>μοιο<ex>ν</ex></expan>
+					</choice>
+					<lb n="3" facs="#zArch57r_149r2_03"/>τῶι <w>ἐγγεγρα<hi rend="superscript">μ</hi>μένωι</w><pc>,</pc>
+					ἐπὶ δὲ τοῦ <w part="I">περι</w>
+					<lb n="4" facs="#zArch57r_149r2_04"/><w part="F">γεγραμμένο<supplied reason="lost">υ</supplied></w>
+					<w>πολυγώνο<unclear>υ</unclear></w>
+					<w part="I">πλευ</w>
+					<lb n="5" facs="#zArch57r_149r2_05"/><w part="F"><supplied reason="lost"
+							>ρ</supplied>α<unclear>ὶ</unclear></w> ἐπιψαυέτωσαν τοῦ κύκλου <w part="I"><choice>
+							<abbr>κ<unclear><am><g/></am></unclear></abbr>
+							<expan>κ<unclear><ex>α</ex></unclear></expan>
+						</choice></w>
+					<lb n="6" facs="#zArch57r_149r2_06"/><w part="F">τὰ</w> μέσα τῶν περιφερειῶν τῶν <lb n="7"
+						facs="#zArch57r_149r2_07"/>ἀποτεμνομένων ὑπὸ τῶν <w>το<supplied reason="lost">ῦ</supplied></w>
+					<lb n="8" facs="#zArch57r_149r2_08"/>ἐγγεγραμμένου πολυγώνου <w part="I">πλευ</w>
+					<lb n="9" facs="#zArch57r_149r2_09"/><w part="F">ρῶν</w><pc>,</pc> αἱ δὲ ΕΗ ΖΘ <choice>
+						<abbr><am><g/></am>μετροι</abbr>
+						<expan><ex>διά</ex>μετροι</expan>
+					</choice>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<choice>
+						<abbr>ὀρθ<am><g/></am></abbr>
+						<expan>ὀρθ<ex>ὰς</ex></expan>
+					</choice>
+					<lb n="10" facs="#zArch57r_149r2_10"/>ἔστωσαν ἀλλήλαις τοῦ κύκλου <choice>
+						<abbr>τ<am><g/></am></abbr>
+						<expan>τ<ex>οῦ</ex></expan>
+					</choice>
+					<lb n="11" facs="#zArch57r_149r2_11"/><w>περιλαμβάνο<supplied reason="lost">ν</supplied>τος</w> τὸ
+						<w part="I">περιγε</w>
+					<lb n="12" facs="#zArch57r_149r2_12"/><w part="F">γραμμένον</w> πολύγωνον καὶ <w part="I">ὁμοί</w>
+					<lb n="13" facs="#zArch57r_149r2_13"/><w part="F">ως</w> κείμεναι ταῖς ΑΓ ΒΔ <w part="I">διαμέ</w>
+					<lb n="14" facs="#zArch57r_149r2_14"/><w part="F">τροις</w><pc>,</pc> καὶ νοείσθωσαν <w part="I"
+						>ἐπεζευγ</w>
+					<lb n="15" facs="#zArch57r_149r2_15"/><w part="F">μέναι</w> ἐπὶ τὰς ἀπεναντίον <w part="I">γω</w>
+					<lb n="16" facs="#zArch57r_149r2_16"/><w part="F">νίας</w> τοῦ πολυγώνου<pc>,</pc> αἳ <choice>
+						<abbr>γίγνοντ<am><g/></am></abbr>
+						<expan>γίγνοντ<ex>αι</ex></expan>
+					</choice>
+					<lb n="17" facs="#zArch57r_149r2_17"/>ἀλλήλαις τε καὶ τῆι ΒΖ ΘΔ <w part="I">παράλ</w>
+					<lb n="18" facs="#zArch57r_149r2_18"/><w part="F">ληλοι</w><pc>.</pc> μενούσης δὴ τῆς ΕΗ <w part="I"
+						>δια</w>
+					<lb n="19" facs="#zArch57r_149r2_19"/><w part="F">μέτρ<supplied reason="lost">ου</supplied></w>
+					<choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>καὶ</ex></expan>
+					</choice>
+					<supplied reason="lost">περιενεχθεισῶν</supplied>
+					<supplied reason="lost">τῶν</supplied>
+					<milestone n="154v2" unit="folio"/>
+					<lb n="20" facs="#zArch57r_154v2_20"/>περιμέτρων τῶν πολυγώνων <lb n="21" facs="#zArch57r_154v2_21"
+					/>περὶ τὴν τοῦ κύκλου <choice>
+						<abbr>περιφέρει<am><g/></am></abbr>
+						<expan>περιφέρει<ex>αν</ex></expan>
+					</choice>
+					<lb n="22" facs="#zArch57r_154v2_22"/>τὸ μὲν περιγεγραμμένον <w part="I">σχῆ</w>
+					<lb n="23" facs="#zArch57r_154v2_23"/><w part="F">μα</w> ἔσται ἐν τῆι σφαίραι<pc>,</pc> τὸ δὲ <w
+						part="I">ἐγ</w>
+					<lb n="24" facs="#zArch57r_154v2_24"/><w part="F">γεγραμμένον</w><pc>·</pc> δεικτέον οὖν <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>ὅτι</ex></expan>
+					</choice> ἡ <choice>
+						<abbr>μ<am><g/></am></abbr>
+						<expan>μ<ex>ὲν</ex></expan>
+					</choice>
+					<lb n="25" facs="#zArch57r_154v2_25"/>ἐπιφάνεια τοῦ <w part="I">περιγεγραμμέ</w>
+					<lb n="26" facs="#zArch57r_154v2_26"/><w part="F">νου</w> σχήματος <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice> τὴν <choice>
+						<abbr>ἐπιφάνει<am><g/></am></abbr>
+						<expan>ἐπιφάνει<ex>αν</ex></expan>
+					</choice>
+					<lb n="27" facs="#zArch57r_154v2_27"/>τοῦ ἐγγεγραμμένου διπλασίονα <lb n="28"
+						facs="#zArch57r_154v2_28"/>λόγον ἔχει <choice>
+						<abbr>εἴ<am><g/></am></abbr>
+						<expan>εἴ<ex>περ</ex></expan>
+					</choice> ἡ ΕΛ <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice> ΑΚ τὸ δὲ <lb n="29" facs="#zArch57r_154v2_29"/>σχῆμα τὸ περιγεγραμμένον <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>πρὸς</ex></expan>
+					</choice>
+					<lb n="30" facs="#zArch57r_154v2_30"/>τὸ ἐγγεγραμμένον <choice>
+						<abbr>τριπλασίον<am><g/></am></abbr>
+						<expan>τριπλασίον<ex>α</ex></expan>
+					</choice>
+					<lb n="31" facs="#zArch57r_154v2_31"/><w>λό<unclear>γ</unclear>ον</w> ἔχει τοῦ
+							<w>α<unclear>ὐ</unclear>τοῦ</w> λόγου<pc>.</pc> ἔστω <choice>
+						<abbr><am><g/></am></abbr>
+						<expan><ex>γὰρ</ex></expan>
+					</choice>
+					<lb n="32" facs="#zArch57r_154v2_32"/>ὁ μὲν Μ <w><unclear>κ</unclear>ύ<unclear>κ</unclear>λος</w>
+					ἴσος τῆι <w part="I">ἐπιφα</w>
+					<lb n="33" facs="#zArch57r_154v2_33"/><w part="F">νείαι</w>
+					<w>το<unclear>ῦ</unclear></w> περιγεγραμμένου <w part="I">πε</w>
+					<lb n="34" facs="#zArch57r_154v2_34"/><w part="F">ρὶ</w> τὴν σφαῖραν<pc>,</pc> ὁ δὲ Ν ἴσος τῆι <w
+						part="I">ἐπ<unclear>ι</unclear></w>
+				</ab>
+			</div>
+		</body>
+	</text>
+</TEI>

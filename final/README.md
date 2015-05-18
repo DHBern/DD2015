@@ -68,11 +68,11 @@ For each of these problems, write an SQL statement that answers it and paste the
 Part 2. XML databases
 ---------------------
 
-In order to complete these questions, you will need the set of XML files in the `archimedes/xml` directory. You have two options for loading them into oXygen:
+In order to complete these questions, you will need the set of XML files in the `archimedes` directory, as well as the file `archie-tei.rng`. (You won't do anything with that file, but oXygen needs it in order to validate the XML.) You have two options for loading them into oXygen:
 
-* Make a new collection (alongside the 'shakespeare' collection; you might call it 'archimedes') in your eXist-DB on your computer, and use the eXist-db XQuery transformer to run your queries, as we did with the Shakespeare files.
-* Use the default Saxon-PE XQuery transformer, and refer to the collection with the full path of the directory they are in, e.g. 
-		/PATH/TO/digitaldata_2015/final/archimedes/xml
+* Make a new collection (alongside the 'shakespeare' collection; you might call it 'archimedes') in your eXist-DB on your computer, and use the eXist-db XQuery transformer to run your queries, as we did with the Shakespeare files. (If you are unable to make the new collection via the web dashboard - some people, including me, have had this problem! - try opening the Java Admin Client instead and make the collection there.)
+* Use the default Saxon-PE XQuery transformer, and refer to the collection with the full path of the directory they are in on your computer, e.g. 
+		/PATH/TO/digitaldata_2015/final/archimedes
 
 
 These files are TEI XML transcriptions of the pages of the [Archimedes Palimpsest](http://archimedespalimpsest.org), taken from their website. Take a quick look at one of the XML files to see its structure - you will find the familiar `teiHeader` element with information about the document, and then a `facsimile` element that would link this transcription to pictures of the palimpsest if we had downloaded them, and finally the `text` element that contains the transcription. If you like, you can look for the pictures of the manuscript on their website, but palimpsests are by their nature very difficult to read! Fortunately, someone else has made these transcriptions for us.
