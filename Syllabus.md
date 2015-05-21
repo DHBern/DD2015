@@ -46,7 +46,7 @@ two) to indicate who did what.
 
 The final project will be done in small groups (2-3 students each). You
 choose a project to carry out that draws upon the tools and methods we
-cover in class, as well as their own strengths and field interests. You
+cover in class, as well as your own strengths and field interests. You
 should choose your groups by the end of March, and describe your planned
 projects during the class session on 15 April. You will present and
 demonstrate your results during the final meeting on 27 May.
